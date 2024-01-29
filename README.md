@@ -1,4 +1,5 @@
-# Hands_on_TailwindCss Learnt this from Sheriyans Coding School @youtube
+# Hands_on_TailwindCss 
+#Learnt this from Sheriyans Coding School @youtube
 Coding Platform Landing Page
 This is a simple HTML file creating a landing page for a coding platform. The page is designed to have two sections, each occupying half of the screen. The left section contains a heading, a subheading, and a call-to-action button. The right section includes an image.
 
